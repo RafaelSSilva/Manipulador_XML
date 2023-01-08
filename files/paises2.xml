@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pais>
+  <nome>Brasil</nome>
+  <idioma>Português</idioma>
+  <capital>Brasília</capital>
+  <moeda> Real (R$)</moeda>
+  <prefixo>+55</prefixo>
+
+  <geografia>
+    <clima>tropical</clima>
+    <costa>costa</costa>
+    <pico> Neblina (3014 m)</pico>
+  </geografia>
+</pais>
